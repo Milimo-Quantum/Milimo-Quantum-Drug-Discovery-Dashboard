@@ -1,0 +1,9 @@
+fasthtml==0.5.0
+qiskit==0.42.1
+qiskit-aer==0.12.0
+matplotlib==3.7.1
+numpy==1.24.3
+mdanalysis==2.4.3
+crewai==0.1.5
+requests==2.31.0
+aiohttp==3.8.4

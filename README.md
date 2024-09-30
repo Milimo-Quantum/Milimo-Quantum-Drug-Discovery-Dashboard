@@ -34,7 +34,7 @@ The Milimo Quantum Drug Discovery Dashboard is an innovative web application tha
 - Install Ollama following the instructions at [Ollama's official website](https://ollama.ai/).
 - Ensure the Ollama server is running before starting the application.
 
-5. Run the application:
+5. Run the application: (python main.py)
 6. Open a web browser and navigate to `http://localhost:5000` to access the dashboard.
 
 ## Usage
